@@ -3,7 +3,7 @@
 ## Olá pessoal 👋
 
 Sou apaixonado por aprender coisas novas e agora estou me aventurando na programação.
-Sou estudante de Engenharia de Petróleo na Universidade Federal Fluminense :oil-barrel:
+Sou estudante de Engenharia de Petróleo na Universidade Federal Fluminense 🛢️
 
  :blush: &nbsp; Além disso, também estou cursando o Minor em Empreendedorismo e Inovação
  <br/> :rocket:  &nbsp; Estou realizando vários cursos online para me capacitar
